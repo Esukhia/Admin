@@ -21,8 +21,8 @@ Write YES or NO to the right of the question:
 1. Does this job really need to be done?: 
 2. Is this job the best way to achieve the client's goal?: 
 3. Are we the most appropriate organization to do the job?: 
-4. Would this work contribute to the mission of BDRC?: 
-5. Is this job worth doing for BDRC?: 
+4. Would this work contribute to the mission of Esukhia?: 
+5. Is this job worth doing for Esukhia?: 
 
 If you answered yes for all answers, continue to the request for job (RFJ).
 
