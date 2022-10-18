@@ -37,18 +37,18 @@ _Tell the background story of this project. Explain the reason why this job is r
 ### 3. Other options
 _Have you considered other ways to solve this problem? Why didn't you choose them?_
 
-### 4. Deliverable Description
-_List the quantifiable, tangible items that this job will produce. Include quantity metrics and descriptions of the quality requirements. Use examples to illustrate the deliverables._
+### 4. Deliverable Targets
+_List the quantifiable, tangible items that this job will produce._
 
-### 4. Definition of a Deliverable Unit
-_List the quantifiable, tangible items that this job will produce. Include quantity metrics and descriptions of the quality requirements. Use examples to illustrate the deliverables._
+### 4. Unit Definition and Examples
+_ Include quantity metrics and descriptions of the quality requirements. Use examples to illustrate the deliverables._
 
 ### 5. Constraints
-*What constraints—–including deadlines, budget, or other requirements––should PechaJobs consider?*
+*Pick one of the 3 options: Cheap & Cheap, Fast & Good or Cheap & Fast and fill in the following.*
 
-🕑 Time constraint:  
-💵 Budget constraint:  
-👌 Quality constraint:  
+- 🕑 Deadline: 
+- 💵 Budget: 
+- 👌 Quality: 
 
 ### 6. Keyword definitions
 *Define any new or important concepts used in the summary (section one) or job decription and scope (section three).*
@@ -56,5 +56,5 @@ _List the quantifiable, tangible items that this job will produce. Include quant
 ### 7. Unknowns
 *What might go wrong and what can BDRC do to reduce those risks? What unanswered questions do you have, if any?*
 
-### 8 Things to do to complete this RFJ
+### 8 Notes
 *List anything that the client or job owner needs to do or find out before this RFJ is accepted.*
