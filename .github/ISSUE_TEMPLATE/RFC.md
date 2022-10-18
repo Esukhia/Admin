@@ -44,7 +44,7 @@ _List the quantifiable, tangible items that this job will produce._
 _ Include quantity metrics and descriptions of the quality requirements. Use examples to illustrate the deliverables._
 
 ### 5. Constraints
-*Pick one of the 3 options: Cheap & Cheap, Fast & Good or Cheap & Fast and fill in the following.*
+*Pick one of the 3 following options: Good & Cheap, Fast & Good or Cheap & Fast and fill in the following.*
 
 - 🕑 Deadline: 
 - 💵 Budget: 
