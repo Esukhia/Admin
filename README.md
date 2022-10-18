@@ -1,7 +1,7 @@
 # Esukhia MD Workflow
 
 ## Roles
-- The **Management** orders and pays for the job.
+- The **Client/Management** orders and pays for the job.
 - The **Job Owner** oversees the job for the Management.
 - The **Team Lead** plans and does the job.
 - The Team Lead's **Teammates** help the Team Lead do the job.
