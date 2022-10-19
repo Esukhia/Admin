@@ -2,47 +2,55 @@
 
 name: RFC  
 about: Describe this issue template's purpose here.  
-title: ''  
+title: 'RFC00 - '  
 labels: ''  
 assignees: ''
 
 ---
 
-RFC title: RFC00
+RFJ link: 
 
-RFJ URL: 
+Job owner's GitHub username: 
 
-Job owner's GitHub user name: 
+Team lead's GitHub username: 
 
-Team lead's GitHub user name: 
+Teammates' GitHub usernames: 
 
-## 1. Summary
-*Copy from the RFJ.*
 
-## 2. Keyword definitions
+## 1. བརྡ་ཆད་ངོ་སྤྲོད། Keyword definitions
 *Copy definitions from RFJ (section two). Define any new or important concepts from your answers below.*
 
-Keyword: Write a definition
+## 2. Summary
+*Copy from the RFJ.*
 
-## 3. Other options
-*What other options did you consider before choosing your approach to the job? Why didn’t you choose them?*
+## 3. གྲུབ་འབྲས་ཚད་ལྡན་ངོ་སྤྲོད། Definition of Acceptable End Result 
+*Give a precise, detailed description of the end product. Describe the threshold for what is acceptable and what is not. Include the delivery format, Esukhia quality standard for this type of job, etc.*
 
-## 4. Risks and risk reduction
+## 4. Alternative Approaches
+*What other approaches did you consider before choosing your approach to this job? Why didn’t you choose them?*
+
+## 5. Reason for Chosing the Current Approach
+
+## 6. ལས་ཀ་སྤྱིའི་རིམ་པ། Milestones 
+*List the main work phases needed to produce the end result. Think of the intermediate results you will have to produce during this project.*
+
+## 7. རིམ་པ་སོ་སོའི་གྲུབ་འབྲས་ཚད་ལྡན་གྱི་དཔེ་མཚོན་དང་ལག་ལེན་གྱི་དྲན་ཐོ། Result Examples and Checklist for Each Milestone
+_For each milestone provide the following: a) example of an acceptable result; b) example of a bad result to illustrate what to avoid; c) a detailed SOP checklist._
+
+## 8. Resources and Useful References
+_What resources do you need to do this job?_
+
+## 9. Risks and risk reduction
 *What could go wrong with your plan? What can you do to reduce the risks you described?*
 
-## 5. Constraints
-*Describe any constraints that the client didn’t mention in the RFJ that could affect the outcome of this job.*
-
-## 6. Open questions
+## 10. Open questions
 *What more do you need to know about this job to complete it?*
 
-## 7. Resources
-What resources do you need to do this job?
+## 11. Quality Control Procedure
+_Describe how, when, and who will do the quality control. Provide a detailed description and refenrences of the standards that will be used._
 
-## 8. Definition of acceptable end product
-*Give a precise, detailed description of the end product. Describe the threshold for what is acceptable and what is not. Include the delivery format, BDRC quality standard for this type of job, etc.*
+## 12. Documentation and Reporting
+_Describe how and where you will document this project. Include a reporting schedule and a sample report._
 
-## 9. Detailed plan
-*Describe the step-by-step plan for doing this job.*
-
-- [ ] Step one 
+## 13. Work Items
+_Describe the step-by-step plan for each milestone._
