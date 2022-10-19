@@ -10,7 +10,7 @@ assignees: ''
 
 ལས་ཀའི་སྙན་ཞུ། RFJ title: RFJ00
 
-ལས་ཀའི་སྦྱིན་བདག Job ordered by: 
+ལས་ཀའི་སྦྱིན་བདག ༼མི་སྣ།༽ Job ordered by: 
 
 འགན་འཁུར་བ། Job Owner's GitHub account: 
 
