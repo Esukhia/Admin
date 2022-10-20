@@ -10,24 +10,24 @@ assignees: ''
 
 RFJ link: 
 
-Job owner's GitHub username: 
+འགན་འཁུར་བ། Job owner's GitHub username: 
 
-Team lead's GitHub username: 
+ལག་བསྟར་བ། Team lead's GitHub username: 
 
-Teammates' GitHub usernames: 
+ལས་གྲོགས། Teammates' GitHub usernames: 
 
 
 ## 1. བརྡ་ཆད་ངོ་སྤྲོད། Keyword definitions
-_Copy definitions from RFJ (section two). Define any new or important concepts from your answers below._
+_ལས་ཀའི་སྙན་ཞུ་ནང་ཡོད་པའི་རྡ་ཆད་ངོ་སྤྲོད་བཤུས་ཏེ་འདིར་ཞོག འོག་གི་འགྲེལ་བཤད་ཁག་གི་ནང་བྱུང་བའི་དམིགས་བསལ་ཐ་སྙད་རྣམས་ཀྱི་འགྲེལ་བཤད་སྟབས་རེའང་ཕྲིས། Copy definitions from RFJ (section two). Define any new or important concepts from your answers below._
 
-## 2. Summary
-_Copy from the RFJ._
+## 2.  ངོ་སྤྲོད་མདོར་བསྡུས། Summary
+_ལས་ཀའི་སྙན་ཞུ་ནས་བཤུས་ཏེ་འདིར་ཞོག Copy from the RFJ._
 
 ## 3. གྲུབ་འབྲས་ཚད་ལྡན་ངོ་སྤྲོད། Definition of Acceptable End Result 
-_Give a precise, detailed description of the end product. Describe the threshold for what is acceptable and what is not. Include the delivery format, Esukhia quality standard for this type of job, etc._
+_མཐའ་འབྲས་གང་འདྲ་ཡིན་མིན་གྱི་འགྲེལ་བཤད་ཁ་གསལ་འགོད་དགོས། མཐའ་འབྲས་Give a precise, detailed description of the end product. Describe the threshold for what is acceptable and what is not. Include the delivery format, Esukhia quality standard for this type of job, etc._
 
 ## 4. Alternative Approaches
-_What other approaches did you consider before choosing your approach to this job? Why didn’t you choose them?_
+_ལས་ཀ་འདི་བསྒྲུབ་པའི་ཐབས་ལམ་གཞན་འདུག་གམ། ཡོད་ན་དེ་མི་འདེམ་པའི་རྒྱུ་མཚན་ཅི་ཡིན། What other approaches did you consider before choosing your approach to this job? Why didn’t you choose them?_
 
 ## 5. Reason for Chosing the Current Approach
 
