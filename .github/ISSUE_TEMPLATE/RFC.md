@@ -8,7 +8,7 @@ assignees: ''
 
 ---
 
-**RFJ ་དྲ་ཐག RFJ link**: 
+**RFJ དྲ་ཐག RFJ link**: 
 
 **འགན་འཁུར་བ། Job owner's GitHub username**:
 
