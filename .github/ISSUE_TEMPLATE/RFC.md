@@ -8,13 +8,13 @@ assignees: ''
 
 ---
 
-RFJ ་དྲ་ཐག RFJ link: 
+**RFJ ་དྲ་ཐག RFJ link**: 
 
-འགན་འཁུར་བ། Job owner's GitHub username: ** **
+**འགན་འཁུར་བ། Job owner's GitHub username**:
 
-ལག་བསྟར་བ། Team lead's GitHub username: ** **
+**ལག་བསྟར་བ། Team lead's GitHub username:**
 
-ལས་གྲོགས། Teammates' GitHub usernames: ** **
+**ལས་གྲོགས། Teammates' GitHub usernames:** ** **
 
 
 ## 1. བརྡ་ཆད་ངོ་སྤྲོད། Keyword definitions
