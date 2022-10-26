@@ -8,13 +8,13 @@ assignees: ''
 
 ---
 
-ལས་ཀའི་སྙན་ཞུ། RFJ title: RFJ00
+**RFJའདིའི་ལས་འཆར་སྙན་ཞུ། Corresponding RFC**: RFC00
 
-ལས་ཀའི་སྦྱིན་བདག ༼མི་སྣ།༽ Job ordered by:
+**ལས་ཀའི་སྦྱིན་བདག ༼མི་སྣ།༽ Job ordered by**: 
 
-སློབ་སྟོན་པ། Advisor:
+**སློབ་སྟོན་པ། Advisor**: 
 
-འགན་འཁུར་བ། Job Owner's GitHub account: 
+**འགན་འཁུར་བ། Job Owner's GitHub account**: 
 
 ## གནད་འགག་གི་དྲི་བ།  Preliminary questions 
 
